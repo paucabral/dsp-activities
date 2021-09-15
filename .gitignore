@@ -1,4 +1,5 @@
 dataset/*
+images/*
 *.docx
 *Lab*.ipynb
 .ipynb_checkpoints/*
