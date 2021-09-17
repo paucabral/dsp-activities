@@ -3,4 +3,4 @@ A repository dedicated for the activities in the course CPE 027-CPE41S3 - Digita
 
 **Notebooks written by:** Pau Cabral
 
-***Note:*** *Each activity are on its own branch. Kindly switch the branches from this repository to view the contents of each.*
+***Note:*** *Each activity is on its own branch. Kindly switch the branches from this repository to view the contents of each.*
