@@ -1,4 +1,5 @@
 dataset/*
+exports/*
 */images/*
 */summary/*
 *.docx
