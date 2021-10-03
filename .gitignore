@@ -1,3 +1,9 @@
 dataset/*
-.ipynb_checkpoints/*
+exports/*
+exports/images/*
+exports/summary/*
 images/*
+summary/*
+*.docx
+*Lab*.ipynb
+.ipynb_checkpoints/*
