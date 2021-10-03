@@ -1,6 +1,8 @@
-# Digital Signal Processing and Application Code Repository
-A repository dedicated for the activities in the course CPE 027-CPE41S3 - Digital Signal Processing and Application.
+# Activity 4 - Fundamental Convolution Application
+*An activity for the course CPE 027-CPE41S3 - Digital Signal Processing and Application.*
 
-**Notebooks written by:** Pau Cabral
+**Code written by:** Pau Cabral
 
-***Note:*** *Each activity is on its own branch. Kindly switch branches from this repository to view the contents of each.*
+### Running the Notebook
+1. On a local machine (or preferably in a virtual environment), install the required *Python* packages using `pip install -r requirements.txt` from a shell.
+2. Run *Jupyter Notebook* and open the `Activity 4 - Fundamental Convolution Application`. Proceed on running the cell blocks.
