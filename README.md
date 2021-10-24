@@ -6,6 +6,6 @@
 ### Running the Notebook
 1. On a local machine (or preferably in a virtual environment), install the required *Python* packages using `pip install -r requirements.txt` from a shell.
 2. Create the `dataset` directory in the same level as the notebook: `Activity 6 - Fundamental Fourier Transform in Python`.
-3. Download and extract the `.csv` file from this [link](TBA).
+3. Download and extract the `.csv` file from this [link](https://drive.google.com/drive/folders/1R-RfpBGBm7I8MCJ5YsjWPzddW2VkFQSE?usp=sharing).
 4. Transfer the downloaded `.csv` file inside the `dataset` directory that was created earlier.
 5. Run *Jupyter Notebook* and open the `Activity 6 - Fundamental Fourier Transform in Python`. Proceed on running the cell blocks.
