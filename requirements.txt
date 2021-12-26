@@ -1,3 +1,6 @@
+cvzone==1.5.2
+opencv-contrib-python==4.5.4.58
+opencv-python==4.5.1.48
 jupyter-client==6.1.11
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
