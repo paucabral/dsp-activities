@@ -1,6 +1,10 @@
-# Digital Signal Processing and Application Code Repository
-A repository dedicated for the activities in the course CPE 027-CPE41S3 - Digital Signal Processing and Application.
+# Activity 14 - Image Processing Methods Using Convolution
+*An activity for the course CPE 027-CPE41S3 - Digital Signal Processing and Application.*
 
-**Notebooks written by:** Pau Cabral
+**Code written by:** Pau Cabral
 
-***Note:*** *Each activity is on its own branch. Kindly switch branches from this repository to view the contents of each.*
+### Running the Notebook
+1. On a local machine (or preferably in a virtual environment), install the required *Python* packages using `pip install -r requirements.txt` from a shell.
+2. Create the `dataset` directory in the same level as the notebook: `Activity 14 - Image Processing Methods Using Convolution`.
+3. Download and extract the image files from this [link]().
+4. Run *Jupyter Notebook* and open the `Activity 14 - Image Processing Methods Using Convolution`. Proceed on running the cell blocks.
