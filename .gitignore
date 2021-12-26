@@ -1,3 +1,4 @@
 dataset/*
+exports/*
 .ipynb_checkpoints/*
 images/*
